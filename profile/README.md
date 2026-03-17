@@ -106,14 +106,14 @@ Backend services and web dashboard for data storage and visualization.
 
 ## Contributors
 
-Senior Capstone Project – Cal Poly  
+CPE Capstone Project – Cal Poly  (2025-2026)
 In collaboration with stroke survivor advocate Carl Sloan  
 
 ---
 
 ## Future Work
 
+- Push noftifications to caregivers and clinicians in case of detected instability
 - Advanced analytics for rehabilitation insights  
-- Machine learning for fall prediction  
 - Expanded compatibility with assistive devices  
 - Improved accessibility and UI/UX for diverse users  
